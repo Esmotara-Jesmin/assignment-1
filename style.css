@@ -1,0 +1,135 @@
+body {
+    font-family: 'Afacad', sans-serif;
+    font-family: 'Nova Square', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+.flex {
+    display: flex;
+    font-weight: 500;
+    font-size: 70px;
+    margin: 300px;
+}
+
+.half-width {
+    display: justify;
+    width: 50%;
+    margin: 20px;
+    padding: 10px;
+}
+
+.font {
+
+    font-size: 200px;
+    border-left: 15px solid rgb(182, 112, 104);
+    border-radius: 10x;
+    padding: 10px;
+}
+
+.salmon {
+    color: orange;
+
+
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: salmon;
+    border: 20px solid salmon;
+    border-radius: 15px;
+    color: white;
+    margin: 50px 50px 50px 10px;
+    padding: 15px;
+
+}
+
+.person {
+    width: 80%;
+    height: auto;
+    margin-right: 70px;
+    margin-bottom: 70px;
+
+
+
+}
+
+
+.center {
+    text-align: center;
+    font-size: 150px;
+}
+
+
+
+#levender {
+    background-color: rgb(244, 244, 255);
+    margin: 30px 20px 30px 200px;
+    padding: 100px;
+    border-radius: 50px;
+
+}
+
+#pink {
+    background-color: rgb(255, 223, 228);
+    margin: 30px 20px;
+    padding: 100px;
+    border-radius: 50px;
+
+}
+
+#papaya {
+    background-color: rgb(255, 246, 232);
+    margin: 30px 200px 30px 20px;
+    padding: 100px;
+    border-radius: 50px;
+
+}
+
+.dev-limit {
+    margin: 200px 300px 150px 300px;
+
+}
+
+.bg-1 {
+    background-image: url(images/shapes/shape-1.png);
+    background-position: left;
+    background-repeat: no-repeat;
+
+}
+
+.bg-2 {
+    background-image: url(images/shapes/shape-1.png);
+    background-position: right;
+    background-repeat: no-repeat;
+
+}
+
+.bg-3 {
+    background-image: url(images/shapes/shape-3.png);
+    background-position: bottom 50px right 30px;
+
+    background-repeat: no-repeat;
+
+
+}
+
+h2 {
+    font-size: 150px;
+
+}
+
+h3 {
+    font-size: 120px;
+
+}
+
+footer {
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    width: 100%;
+    height: 50%;
+    padding: 15px;
+    background-color: black;
+}
